@@ -1,2 +1,4 @@
-The repository named ACJ DATA contains 
-Python class exercises.
+# ACJ DATA
+## CONTENTS: 
+## Python exercises.
+## Data scraping exercises
