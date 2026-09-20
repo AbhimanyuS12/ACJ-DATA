@@ -1,4 +1,5 @@
 # ACJ DATA
 ## CONTENTS: 
-## Python exercises.
+## Python exercises
 ## Data scraping exercises
+## Final assignment
